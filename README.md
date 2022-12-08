@@ -12,3 +12,7 @@ await client.change_presence(activity=discord.Activity(type=discord.ActivityType
 
 ### Setting `Watching` status
 await client.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="film name"))
+
+# Free Host Support
+<a href="http://replit.com/~" target="_blank">- Replit</a>
+
